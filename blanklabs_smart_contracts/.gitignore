@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Build directory
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# IDE specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Solidity compiler artifacts
+*.t.sol
+
+# TypeScript compiled files
+*.tsbuildinfo
+dist/
+
+# Typechain types folder 
+typechain-types/
